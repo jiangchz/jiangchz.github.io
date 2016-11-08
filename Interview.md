@@ -5,16 +5,22 @@ description: "人丑就该多读书"
 header-img: "img/plane2.jpg"
 ---
 
-# Problem Categories数组和字符串
-- 堆栈和队列
-- 链表
-- 递归和动态规划
-- 树和图
-- 排序和搜索
-- 位操作
-- 面向对象设计
-- 测试
-- 网络
+# Problem Categories
+- Array and String
+- Data Structure 
+    - Stack and queue
+    - unionfind 
+    - Trie tree
+- Linked List
+- Recursion
+- Dynamic programing 
+- Tree and graph
+- sort and search
+- bit operation
+- OO design
+- Testing
+- Network
+
 ## 基础知识
 - Python
 - 网络
