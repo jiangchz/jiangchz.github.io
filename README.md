@@ -1,6 +1,6 @@
-# Microdust 微尘
+# jiangchen
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This is a blog created by jiangchen. The blog is live at [uscoder.com](http://uscoder.com/).
 
 ## Thanks
 
@@ -16,11 +16,6 @@ The blog used many tool/service,many thanks to:
 * [Google](http://google.com), the one who tell me how to make it.
 * …
 
-## How To Creat A Jekyll Blog
-
-[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
-
-Build your blog Step by step
 ## Just write
 
 Start writing now！
