@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Data structure - trie tree
-categories: [blog]
+categories: [blog ]
 tags: [interview, data structure]
 description: Data structure - trie tree
 ---
