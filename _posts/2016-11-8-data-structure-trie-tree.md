@@ -6,11 +6,11 @@ description: Data structure - trie tree
 ---
 
 
-##Concept
+## Concept
 
 we have key words: *and,as,at,cn,com*，how can we contruct a trie tree？
 
-####From the graph above we can tell:
+#### From the graph above we can tell:
 1. the root node do not contain any characters. It is a dummy node similar with the one in linked list, only used as the root of the whole tree. 
 2. we store current char at current level of trie tree. 
 3. use an boolean to note that whether current chars is a word. 
