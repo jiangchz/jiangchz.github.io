@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Interview"
-description: "人丑就该多读书"
+description: "人丑就该多刷题，点不开的tab都是欠下的债"
 header-img: "img/plane2.jpg"
 ---
-
-# Problem Categories
+//to do * 好几百
+## Problem Categories
 - Array and String
 - Data Structure 
     - Stack and queue
